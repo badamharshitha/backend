@@ -28,3 +28,5 @@ const res2=await getsubmarks(res1);
     console.log(res2.submarks);
 }
 myfunc();
+getuserdetails();
+
